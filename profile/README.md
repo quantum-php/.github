@@ -6,6 +6,7 @@ Quantum PHP is a modular PHP framework focused on clear architecture, practical 
 
 - `framework` - the core framework package
 - `project` - the starter project / application skeleton
+- `docs` - the framework doecumentation
 
 ## Get Started
 
