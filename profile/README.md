@@ -19,6 +19,8 @@ composer create-project quantum/project my-app
 - Website: [quantumphp.io](https://quantumphp.io)
 - Framework issues: [github.com/quantum-php/framework/issues](https://github.com/quantum-php/framework/issues)
 - Project issues: [github.com/quantum-php/project/issues](https://github.com/quantum-php/project/issues)
+- Documentation at Gitbook: [https://quantumphp.gitbook.io/docs](https://quantumphp.gitbook.io/docs)
+- Documentation at Read the Docs: [https://quantum-php-framework.readthedocs.io/](https://quantum-php-framework.readthedocs.io)
 
 ## What You Get
 
