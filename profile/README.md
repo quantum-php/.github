@@ -16,6 +16,8 @@ A modular PHP framework for building websites, APIs, and applications with a cle
   <img src="../assets/space-oddity.jpg" alt="Quantum PHP — space exploration" width="100%" />
 </div>
 
+[Quantum oddity](https://www.youtube.com/watch?v=JXXQwTqKsQI)
+
 <br>
 
 ## Start building
